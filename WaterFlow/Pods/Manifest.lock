@@ -1,0 +1,41 @@
+PODS:
+  - AFNetworking (2.6.2):
+    - AFNetworking/NSURLConnection (= 2.6.2)
+    - AFNetworking/NSURLSession (= 2.6.2)
+    - AFNetworking/Reachability (= 2.6.2)
+    - AFNetworking/Security (= 2.6.2)
+    - AFNetworking/Serialization (= 2.6.2)
+    - AFNetworking/UIKit (= 2.6.2)
+  - AFNetworking/NSURLConnection (2.6.2):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.2):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.2)
+  - AFNetworking/Security (2.6.2)
+  - AFNetworking/Serialization (2.6.2)
+  - AFNetworking/UIKit (2.6.2):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - MJExtension (3.0.2)
+  - MJRefresh (3.0.0)
+  - SDWebImage (3.7.3):
+    - SDWebImage/Core (= 3.7.3)
+  - SDWebImage/Core (3.7.3)
+
+DEPENDENCIES:
+  - AFNetworking
+  - MJExtension
+  - MJRefresh
+  - SDWebImage
+
+SPEC CHECKSUMS:
+  AFNetworking: 7f317038a9710cabfa43ec56396b307b45df72ab
+  MJExtension: 814c41e521a8e1d6bae49d6df92c5dd12e08ef6a
+  MJRefresh: 72e41ae6c0e9331da3e19cf7e9286a2b1b62ff5f
+  SDWebImage: 1d2b1a1efda1ade1b00b6f8498865f8ddedc8a84
+
+COCOAPODS: 0.39.0
